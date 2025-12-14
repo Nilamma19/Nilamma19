@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi 👋 I'm Nilamma
 
-<!--
-**Nilamma19/Nilamma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Aspiring Software Developer  
+ Passionate about building meaningful tech & learning by doing 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 📚 Currently pursuing **CSBS**
+- 🌱 Learning **Web Development & Data Structures**
+- 🧠 Interested in **problem solving & hackathons**
+- 🤝 Open to collaborations and tech communities
+
+---
+
+## 🔧 Technical Skills
+- **Languages:** C, python, JavaScript
+- **Web:** HTML, CSS, React
+- **Tools:** Git, GitHub, VS Code
+- **Basics:** DSA, OOP concepts
+
+---
+
+## 🏆 Experience & Activities
+- Participated in **Hackathons**
+- Worked on **personal projects and Hackathon ideas Improving DSA skills**
+- Experience in **team collaboration**
+
+---
+
+## 📌 What I'm Working On
+- Building projects to improve real-world skills
+- Practicing Data Structures & Algorithms
+- Exploring full-stack development and Blockchain technology
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: http://www.linkedin.com/in/nilamma-borge-546444331
+- 📧 Email: nilammaborge@gmail.com
+
+---
+
+⭐ *Always learning. Always improving.*
