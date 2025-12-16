@@ -24,7 +24,7 @@
 
 ## 🏆 Experience & Activities
 - Participated in **Hackathons**
-- Worked on **personal projects and Hackathon ideas Improving DSA skills**
+- Worked on **personal projects, Hackathon ideas and Improving DSA skills**
 - Experience in **team collaboration**
 
 ---
