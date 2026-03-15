@@ -39,7 +39,7 @@
 ## 📫 Connect With Me
 - 💼 LinkedIn: http://www.linkedin.com/in/nilamma-borge-546444331
 - 📧 Email: nilammaborge@gmail.com
--    My Portfolio: nilamma.vercel.app
+-    My Portfolio: https://nilamma.vercel.app
 ---
 
 ⭐ *Always learning. Always improving.*
