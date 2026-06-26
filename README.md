@@ -6,10 +6,6 @@
 
 *Passionate about building scalable web applications • Open Source Contributor • Problem Solver*
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Nilamma19&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/Nilamma19)
-[![Followers](https://img.shields.io/github/followers/Nilamma19?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Nilamma19)
-[![Stars](https://img.shields.io/github/stars/Nilamma19?style=for-the-badge&logo=github&color=blueviolet)](https://github.com/Nilamma19)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
@@ -127,43 +123,6 @@ currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nilamma19/Nilamma19/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nilamma19/Nilamma19/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Nilamma19/Nilamma19/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Nilamma19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117" width="60%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📌 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/Nilamma19/Nilamma19">
-    <img width="45%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nilamma19&repo=Nilamma19&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF" />
-  </a>
-  <!-- Add more project cards as you create repositories -->
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 ## 🌟 Open Source
 
 <div align="center">
@@ -177,7 +136,6 @@ currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design
 | 🚀 Total Contributions | Active |
 | 🔀 Pull Requests | Growing |
 | 🐛 Issues | Learning & Contributing |
-| ⭐ Stars Earned | Increasing |
 
 *"The best way to predict the future is to create it." – Peter Drucker*
 
@@ -206,52 +164,11 @@ currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
 
-## 💡 Extras
-
-<div align="center">
-
-### 🔥 Developer Quote
-
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — **Martin Fowler**
-
-### 🎯 Fun Fact
-
-> When I'm not coding, you'll find me exploring new tech, solving puzzles, or brainstorming my next project!
-
-### 📚 Currently Learning
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=blockchain.com&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-FF6F00?style=flat-square&logo=diagrams.net&logoColor=white)
-
-### 💬 Ask Me About
-
-![Web Development](https://img.shields.io/badge/Web%20Development-7C3AED?style=flat-square&logo=html5&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-7C3AED?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-7C3AED?style=flat-square&logo=thealgorithms&logoColor=white)
-
-### 🌍 Location
-
-![India](https://img.shields.io/badge/India-FF9933?style=flat-square&logo=googlemaps&logoColor=white)
-
-### 👤 Pronouns
-
-![She/Her](https://img.shields.io/badge/She%20%7C%20Her-7C3AED?style=flat-square&logo=google&logoColor=white)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
 <div align="center">
 
 ### ⭐ *Always learning. Always improving.*
 
-**Thanks for visiting my profile!** 🚀
+**Thanks for visiting my profile!** 
 
 ![Footer Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer)
 
