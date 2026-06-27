@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Nilamma Borge
+# 👋 Hi I`m Nilamma Borge
 
 ### **Full Stack Developer**
-
-*Passionate about building scalable web applications • Open Source Contributor • Problem Solver*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
@@ -13,41 +11,6 @@
 ---
 
 <!-- HERO SECTION -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## ✨ About Me
-
-```yaml
-name: Nilamma Borge
-located_in: India
-education: Computer Science Engineering (CSBS)
-current_focus: Full Stack Development & Open Source
-
-fields_of_interests:
-  [
-    "Web Development",
-    "Open Source Contributions",
-    "Scalable Web Applications",
-    "Problem Solving",
-    "Data Structures & Algorithms"
-  ]
-
-technical_background:
-  [
-    "Building Real-World Projects",
-    "Hackathon Participant",
-    "Team Collaborator",
-    "Continuous Learner"
-  ]
-
-currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design"]
-2026_goal: "Contribute more to open source and build impactful projects"
-```
-
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
@@ -69,7 +32,6 @@ currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -102,6 +64,12 @@ currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design
 <br>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-7C3AED?style=for-the-badge&logo=github&label=PRs%20Merged&labelColor=0D1117&color=7C3AED" />
+</div>
+
+<br>
+
+<div align="center">
   <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Nilamma19&theme=discord&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" />
 </div>
 
@@ -115,30 +83,6 @@ currently_learning: ["React", "Node.js", "Blockchain Technology", "System Design
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilamma19&theme=tokyonight" width="95%" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 🌟 Open Source
-
-<div align="center">
-
-[![Open Source Contributions](https://img.shields.io/badge/Open%20Source-Contributor-7C3AED?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](https://github.com/Nilamma19)
-
-**Current Focus:** Building projects and contributing to the open source community
-
-| Metric | Status |
-|--------|--------|
-| 🚀 Total Contributions | Active |
-| 🔀 Pull Requests | Growing |
-| 🐛 Issues | Learning & Contributing |
-
-*"The best way to predict the future is to create it." – Peter Drucker*
-
 </div>
 
 ---
