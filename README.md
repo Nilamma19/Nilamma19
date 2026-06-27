@@ -4,6 +4,8 @@
 
 ### **Full Stack Developer**
 
+*Pursuing B.Tech in CSBS*
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
@@ -32,6 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
@@ -77,12 +80,6 @@
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nilamma19&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nilamma19&theme=tokyonight" width="95%" />
 </div>
 
 ---
