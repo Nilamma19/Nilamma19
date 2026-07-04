@@ -108,8 +108,7 @@
 <div align="center">
 
 ### ⭐ *Always learning. Always improving.*
-
-**Thanks for visiting my profile!** 
+ 
 
 ![Footer Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer)
 
