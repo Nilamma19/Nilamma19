@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi I`m Nilamma Borge
-
 ### **Full Stack Developer**
 
 *Pursuing B.Tech in CSBS*
@@ -109,7 +108,6 @@
 
 ### ⭐ *Always learning. Always improving.*
  
-
 ![Footer Divider](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer)
 
 </div>
