@@ -2,14 +2,11 @@
 
 # 👋 Hi I`m Nilamma Borge
 ### **Full Stack Developer**
-
 *Pursuing B.Tech in CSBS*
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Enthusiast;Continuous+Learner;Problem+Solver)](https://git.io/typing-svg)
 
 </div>
-
----
 
 <!-- HERO SECTION -->
 <div align="center">
