@@ -41,7 +41,6 @@
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -78,7 +77,6 @@
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nilamma19&bg_color=0D1117&color=7C3AED&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true" />
 </div>
 
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -95,7 +93,6 @@
 
 </div>
 
----
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
