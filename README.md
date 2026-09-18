@@ -61,16 +61,9 @@
 
 <br>
 
-### 🧭 Top Languages by Repository
-
-| Repository | Primary Language |
-| --- | --- |
-| [Disaster-management](https://github.com/Nilamma19/Disaster-management) | JavaScript |
-| [Portfolio_website](https://github.com/Nilamma19/Portfolio_website) | JavaScript |
-| [Study-Planner](https://github.com/Nilamma19/Study-Planner) | JavaScript |
-| [Borge-Traders](https://github.com/Nilamma19/Borge-Traders) | TypeScript |
-
-**Repository language count:** JavaScript `3` · TypeScript `1`
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nilamma19&theme=tokyonight" />
+</div>
 
 <br>
 
