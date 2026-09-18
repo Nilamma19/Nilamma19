@@ -66,6 +66,19 @@
 
 <br>
 
+### 🧭 Top Languages by Repository
+
+| Repository | Primary Language |
+| --- | --- |
+| [Disaster-management](https://github.com/Nilamma19/Disaster-management) | JavaScript |
+| [Portfolio_website](https://github.com/Nilamma19/Portfolio_website) | JavaScript |
+| [Study-Planner](https://github.com/Nilamma19/Study-Planner) | JavaScript |
+| [Borge-Traders](https://github.com/Nilamma19/Borge-Traders) | TypeScript |
+
+**Repository language count:** JavaScript `3` · TypeScript `1`
+
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/PRs%20Merged-7C3AED?style=for-the-badge&logo=github&label=PRs%20Merged&labelColor=0D1117&color=7C3AED" />
 </div>
